@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<figure><embed src="https://wakatime.com/share/@erpland/76bdb433-1f67-4e40-a711-4be051bb75f0.svg"></embed></figure>
 <!--END_SECTION:waka-->
 <!--
 **erpland/erpland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
