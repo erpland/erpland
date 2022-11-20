@@ -1,9 +1,6 @@
 ### Hi there 👋
-<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
-<!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
-<!--END_SECTION:waka-->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland)](https://github.com/erpland/github-readme-stats)
 <!--
 **erpland/erpland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
+<!--END_SECTION:waka-->
