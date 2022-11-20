@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
 <!--START_SECTION:waka-->
-
+<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 <!--
