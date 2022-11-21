@@ -1,13 +1,13 @@
 <center>
 <img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif"/>
 
-<a href="https://www.linkedin.com/in/ori-wineboim/">
+<a href="https://www.linkedin.com/in/ori-wineboim/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/abhisheknaiidu/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/ORi.Win">
+<a href="https://www.facebook.com/ORi.Win" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
 </center>
