@@ -56,10 +56,12 @@
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=erpland&card_width=300&theme=dracula&hide=prs,contribs"/>
     </td>
+
+   <td>
+     
     <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula"/>
-      <td>
-    gr
-    </td>
+     
+   </td>
   </tr>
   
   </table>
