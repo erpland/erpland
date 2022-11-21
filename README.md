@@ -15,12 +15,11 @@
 </div>
 
 <h4>💬 About Me:</h4>
-<p>Hi! I'm A Full Stack Developer From Israel </p>
 <ul>
-  <li>:heart_eyes: Very enthusiastic about computers and programming</li>
-  <li>:closed_book: Loves to learn new things and develop my skill set</li>
-  <li></li>
-  <li></li>
+  <li>:handshake: Full Stack Developer From Israel.</li>
+  <li>:heart_eyes: Very enthusiastic about computers and programming.</li>
+  <li>:closed_book: Loves to learn new things and develop my skill set.</li>
+  <li>:musical_keyboard: Originted from the world of music production and sound design.</li>
 </ul>
 
 [![erpland's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland)](https://github.com/erpland/github-readme-stats)
