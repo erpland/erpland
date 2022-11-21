@@ -1,23 +1,6 @@
 <div align="center">
 <img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif" />
 </div>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/ori-wineboim/">
-  <img align="center" width="30" alt="Linkedin" src="https://github.com/erpland/erpland/blob/main/assets/linkedin.png" />
-</a>
-  &nbsp;
-  &nbsp;
-<a href="mailto:yanuka7@gmail.com.com">
-  <img align="center" width="30" alt="Gmail" src="https://github.com/erpland/erpland/blob/main/assets/gmail.png" />
-</a>
-  &nbsp;
-  &nbsp;
-<a href="https://www.facebook.com/ORi.Win">
-  <img align="center" width="30" alt="Facebook" src="https://github.com/erpland/erpland/blob/main/assets/facebook.png" />
-</a>
-</div>
-\
 <br/>
 
 <div align="center">
@@ -35,11 +18,25 @@
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
 </div>
 
-<div align="left">
-<h4>💬 About Me:</h4>
+<div align="center">
+<a href="https://www.linkedin.com/in/ori-wineboim/">
+  <img align="center" width="30" alt="Linkedin" src="https://github.com/erpland/erpland/blob/main/assets/linkedin.png" />
+</a>
+  &nbsp;
+  &nbsp;
+<a href="mailto:yanuka7@gmail.com.com">
+  <img align="center" width="30" alt="Gmail" src="https://github.com/erpland/erpland/blob/main/assets/gmail.png" />
+</a>
+  &nbsp;
+  &nbsp;
+<a href="https://www.facebook.com/ORi.Win">
+  <img align="center" width="30" alt="Facebook" src="https://github.com/erpland/erpland/blob/main/assets/facebook.png" />
+</a>
+</div>
+
+<h4 align="left" >💬 About Me:</h4>
 <hr/>
 <ul>
   <li>:handshake: Full Stack Developer From Israel.</li>
@@ -47,7 +44,7 @@
   <li>:closed_book: Loves to learn new things and develop my skill set.</li>
   <li>:musical_keyboard: Originted from the world of music production and sound design.</li>
 </ul>
-</div>
+
 
 <div>
 <h4>:chart_with_upwards_trend: Some Stats</h4>
