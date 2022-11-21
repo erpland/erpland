@@ -42,7 +42,27 @@
   <li>:musical_keyboard: Originted from the world of music production and sound design.</li>
 </ul>
 
-[![erpland's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland)](https://github.com/erpland/github-readme-stats)
+<h4>:chart_with_upwards_trend: Some Stats</h4>
+<div align="center">
+
+[![erpland's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland&card_width=300&theme=dracula&hide=prs,contribs)](https://github.com/erpland/github-readme-stats)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula)
+
+
+</div>  
+ 
+ <table>
+  <tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=erpland&card_width=300&theme=dracula&hide=prs,contribs"/>
+    </td>
+    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula"/>
+      <td>
+    gr
+    </td>
+  </tr>
+  
+  </table>
 <!--
 **erpland/erpland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,20 +77,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
-<!--START_SECTION:waka-->
 
-```text
-From: 15 November 2022 - To: 19 November 2022
 
-Total Time: 40 mins
 
-JavaScript       14 mins         >>>>>>>>>----------------   36.89 %
-GitIgnore file   11 mins         >>>>>>>------------------   27.92 %
-Markdown         7 mins          >>>>>--------------------   18.21 %
-YAML             3 mins          >>-----------------------   09.16 %
-Python           2 mins          >>-----------------------   06.00 %
-Git              0 secs          -------------------------   01.30 %
-```
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6ibvcrra2ftjiiqyia74b7hhx)
 
-<!--END_SECTION:waka-->
+
+
