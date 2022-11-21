@@ -35,17 +35,16 @@
   <img align="center" width="30" alt="Facebook" src="https://github.com/erpland/erpland/blob/main/assets/facebook.png" />
 </a>
 </div>
-
+<br/>
 <h4 align="left" >💬 About Me:</h4>
 <hr/>
 <ul>
   <li>:handshake: Full Stack Developer From Israel.</li>
   <li>:heart_eyes: Very enthusiastic about computers and programming.</li>
-  <li>:closed_book: Loves to learn new things and develop my skill set.</li>
+  <li>:closed_book: Love to learn new things and develop my skill set.</li>
   <li>:musical_keyboard: Originted from the world of music production and sound design.</li>
 </ul>
-
-
+<br/>
 <div>
 <h4>:chart_with_upwards_trend: Some Stats</h4>
 <hr/>
@@ -60,7 +59,7 @@
     </tr>
   </table>
 </div>
-
+<br/>
 <div align="left">
 <h4>:musical_note: My Last Listens:</h4>
 <hr/>
