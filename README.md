@@ -4,13 +4,17 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ori-wineboim/">
-  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" width="30" alt="Linkedin" src="https://github.com/erpland/erpland/blob/main/assets/linkedin.png" />
 </a>
+  &nbsp;
+  &nbsp;
 <a href="mailto:yanuka7@gmail.com.com">
-  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="center" width="30" alt="Gmail" src="https://github.com/erpland/erpland/blob/main/assets/gmail.png" />
 </a>
+  &nbsp;
+  &nbsp;
 <a href="https://www.facebook.com/ORi.Win">
-  <img align="center" alt="Facebook" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png" />
+  <img align="center" width="30" alt="Facebook" src="https://github.com/erpland/erpland/blob/main/assets/facebook.png" />
 </a>
 </div>
 \
@@ -48,16 +52,17 @@
 <div>
 <h4>:chart_with_upwards_trend: Some Stats</h4>
 <hr/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=erpland&card_width=400&theme=dracula&hide=prs,contribs" />
-
- <img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula&custom_title=This+Week+I+Have+Used" />
+  <table>
+    <tr>
+      <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=erpland&theme=dracula&hide=prs,contribs" />
+      </td>
+      <td>
+         <img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula&custom_title=This+Week+I+Have+Used" />
+      </td>
+    </tr>
+  </table>
 </div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <div align="left">
 <h4>:musical_note: My Last Listens:</h4>
