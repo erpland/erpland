@@ -1,6 +1,8 @@
 <center>
 <img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif"/>
+</center>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/ori-wineboim/">
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -10,9 +12,16 @@
 <a href="https://www.facebook.com/ORi.Win">
   <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
-</center>
+</div>
 
-
+<h4>💬 About Me:</h4>
+<p>Hi! I'm A Full Stack Developer From Israel </p>
+<ul>
+  <li>:heart_eyes: Very enthusiastic about computers and programming</li>
+  <li>:closed_book: Loves to learn new things and develop my skill set</li>
+  <li></li>
+  <li></li>
+</ul>
 
 [![erpland's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland)](https://github.com/erpland/github-readme-stats)
 <!--
