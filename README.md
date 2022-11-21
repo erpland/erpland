@@ -1,13 +1,21 @@
-<div>
-      <div align="center">
- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
-        <h3 style="margin:5px 0 0 0;">Ori Wineboim</h3>
-        <small>Full Stack Developer</small>
-      </div>
-      <hr>
-      <div>
-      </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland)](https://github.com/erpland/github-readme-stats)
+<center>
+<img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif"/>
+
+<a href="https://www.linkedin.com/in/ori-wineboim/">
+  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/ORi.Win">
+  <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+</center>
+
+
+
+
+[![erpland's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland)](https://github.com/erpland/github-readme-stats)
 <!--
 **erpland/erpland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
