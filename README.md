@@ -1,6 +1,6 @@
-<center>
-<img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif"/>
-</center>
+<div align="center">
+<img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif" />
+</div>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ori-wineboim/">
@@ -13,7 +13,7 @@
   <img align="center" alt="Facebook" src="https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png" />
 </a>
 </div>
-
+\
 <br/>
 
 <div align="center">
@@ -34,55 +34,41 @@
 
 </div>
 
+<div align="left">
 <h4>💬 About Me:</h4>
+<hr/>
 <ul>
   <li>:handshake: Full Stack Developer From Israel.</li>
   <li>:heart_eyes: Very enthusiastic about computers and programming.</li>
   <li>:closed_book: Loves to learn new things and develop my skill set.</li>
   <li>:musical_keyboard: Originted from the world of music production and sound design.</li>
 </ul>
+</div>
 
+<div>
 <h4>:chart_with_upwards_trend: Some Stats</h4>
-<div align="center">
+<hr/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=erpland&card_width=400&theme=dracula&hide=prs,contribs" />
 
-[![erpland's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpland&card_width=300&theme=dracula&hide=prs,contribs)](https://github.com/erpland/github-readme-stats)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula)
+ <img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula&custom_title=This+Week+I+Have+Used" />
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-</div>  
- 
- <table>
-  <tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=erpland&card_width=300&theme=dracula&hide=prs,contribs"/>
-    </td>
-
-   <td>
-     
-    <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula"/>
-     
-   </td>
-  </tr>
+<div align="left">
+<h4>:musical_note: My Last Listens:</h4>
+<hr/>
   
-  </table>
-<!--
-**erpland/erpland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6ibvcrra2ftjiiqyia74b7hhx&width=1000)
+</div>
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6ibvcrra2ftjiiqyia74b7hhx)
+
 
 
 
