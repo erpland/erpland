@@ -17,5 +17,18 @@ Here are some ideas to get you started:
 -->
 <figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@erpland/bac6859b-2a8a-4478-aa68-2879f4337761.svg"></embed></figure>
+
+```text
+From: 15 November 2022 - To: 19 November 2022
+
+Total Time: 40 mins
+
+JavaScript       14 mins         >>>>>>>>>----------------   36.89 %
+GitIgnore file   11 mins         >>>>>>>------------------   27.92 %
+Markdown         7 mins          >>>>>--------------------   18.21 %
+YAML             3 mins          >>-----------------------   09.16 %
+Python           2 mins          >>-----------------------   06.00 %
+Git              0 secs          -------------------------   01.30 %
+```
+
 <!--END_SECTION:waka-->
