@@ -46,7 +46,7 @@
 </ul>
 <br/>
 <div>
-<h4>:chart_with_upwards_trend: Some Stats</h4>
+<h4>:chart_with_upwards_trend: My Current Stats</h4>
 <hr/>
   <table>
     <tr>
