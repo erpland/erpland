@@ -51,10 +51,10 @@
   <table>
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=erpland&theme=dracula&hide=prs,contribs" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=erpland&theme=dracula&hide=prs,contribs" alt="Github stats" />
       </td>
       <td>
-         <img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula&custom_title=This+Week+I+Have+Used" />
+         <img align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=erpland&hide_border=true&langs_count=3&theme=dracula&custom_title=This+Week+I+Have+Used" alt="Weekly stats" />
       </td>
     </tr>
   </table>
