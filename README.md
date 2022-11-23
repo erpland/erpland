@@ -34,6 +34,11 @@
 <a href="https://www.facebook.com/ORi.Win">
   <img align="center" width="30" alt="Facebook" src="https://github.com/erpland/erpland/blob/main/assets/facebook.png" />
 </a>
+  &nbsp;
+  &nbsp;
+<a href="https://www.reddit.com/user/yanuka7">
+  <img align="center" width="30" alt="Reddit" src="https://github.com/erpland/erpland/blob/main/assets/reddit.png" />
+</a>
 </div>
 <br/>
 <h4 align="left" >💬 About Me:</h4>
