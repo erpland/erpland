@@ -1,9 +1,4 @@
 <div align="center">
-[<img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif" />](url)
-</div>
-<br/>
-
-<div align="center">
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
