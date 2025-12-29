@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif" />
+[<img src="https://github.com/erpland/erpland/blob/main/assets/banner.gif" />](url)
 </div>
 <br/>
 
